@@ -1,0 +1,43 @@
+COMARCA		
+Alt	Camp	
+Alt	Empord…ÿ	
+Alt	Penedes	
+Alt	Urgell	
+Alta	Ribagor‡a	
+Anoia		
+Aran		
+Bages		
+Baix	Camp	
+Baix	Ebre	
+Baix	Empord…ÿ	
+Baix	Llobregat	
+Baix	Pened‚s	
+Barcelon‚s		
+Bergued…ÿ		
+Cerdanya		
+Conca	de	Barber…ÿ
+Garraf		
+Garrigues		
+Garrotxa		
+Giron‚s		
+Maresme		
+Moian‚s		
+Montsi…ÿ		
+Noguera		
+Osona		
+Pallars	Juss…ÿ	
+Pallars	Sobir…ÿ	
+Pla	de	l'Estany
+Pla	d'Urgell	
+Priorat		
+Ribera	d'Ebre	
+Ripoll‚s		
+Segarra		
+Segri…ÿ		
+Selva		
+Solson‚s		
+Tarragon‚s		
+Terra	Alta	
+Urgell		
+Vall‚s	Occidental	
+Vall‚s	Oriental	

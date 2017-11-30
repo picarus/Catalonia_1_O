@@ -1,0 +1,1050 @@
+MUNICIPIS	Cens	Votants	Vàlids	Nuls	Sí	No	Blanc						
+Aiguamúrcia	691	327	324	3	304	17	3						
+Alcover	3.626	1.76	1.752	8	1.639	71	42						
+Alió	322	226	225	1	214	8	3						
+Bràfim	477	313	311	2	287	19	5						
+Cabra del Camp	843	351	348	3	335	12	1						
+El	Milà	144	126	126	0	118	7	1					
+El	Pla	de	Santa	Maria	1.774	490	484	6	454	25	5		
+El	Pont	d'Armentera	393	967	958	9	899	45	14				
+El	Rourell	282	172	172	0	161	6	5					
+Els	Garidells	158	253	251	2	229	19	3					
+Figuerola	del	Camp	252	324	318	6	303	8	7				
+La	Masó	239	163	162	1	159	3	0					
+La	Riba	482	381	375	6	337	29	9					
+Montferri	292	170	169	1	156	7	6						
+Mont-ral	132	60	58	2	53	3	2						
+Nulles	343	259	259	0	255	1	3						
+Puigpelat	799	346	346	0	328	14	4						
+Querol	441	135	135	0	125	8	2						
+Rodonyà	373	273	271	2	254	10	7						
+Vallmoll	1.276	535	532	3	487	37	8						
+Valls	17.197	8.096	8.045	51	7.721	261	63						
+Vilabella	577	458	457	1	441	12	4						
+Vila-rodona	868	622	620	2	592	19	9						
+													
+MUNICIPIS	Cens	Votants	Vàlids	Nuls	Sí	No	Blanc						
+Agullana	587	367	366	1	346	14	6						
+Albanyà	104	123	123	0	119	3	1						
+Avinyonet	de	Puigventós	1.145	752	750	2	721	20	9				
+Bàscara	731	511	503	8	482	20	1						
+Biure	182	114	114	0	111	3	0						
+Boadella	i	les	Escaules	207	123	123	0	115	3	5			
+Borrassà	544	506	501	5	482	15	4						
+Cabanelles	168	155	155	0	150	5	0						
+Cabanes	641	400	399	1	382	12	5						
+Cadaqués	1.721	1.225	1.207	18	1.133	60	14						
+Cantallops	218	152	152	0	140	10	2						
+Capmany	419	267	265	2	254	4	7						
+Castelló	d'Empúries	4.798	2.019	2.005	14	1.861	116	28					
+Cistella	218	191	190	1	180	6	4						
+Colera	370	326	321	5	298	23	0						
+Darnius	424	261	257	4	246	7	4						
+El	Far	d'Empordà	413	153	153	0	141	7	5				
+El	Port	de	la	Selva	670	519	517	2	472	37	8		
+Espolla	322	236	231	5	215	10	6						
+Figueres	26.562	8.635	8.571	64	8.094	375	102						
+Fortià	510	316	314	2	305	8	1						
+Garrigàs	330	-	-	-	-	-	-						
+Garriguella	548	445	431	14	404	22	5						
+La	Jonquera	1.729	696	690	6	628	56	6					
+La	Selva	de	Mar	164	141	139	2	126	12	1			
+La	Vajol	64	42	42	0	41	1	0					
+L'Armentera	637	573	570	3	545	8	17						
+L'Escala	5.958	3.137	3.119	18	2.955	118	46						
+Lladó	533	413	412	1	404	6	2						
+Llançà	3.509	1.948	1.938	10	1.783	134	21						
+Llers	891	514	509	5	479	19	11						
+Maçanet	de	Cabrenys	571	367	365	2	355	9	1				
+Masarac	194	138	138	0	128	8	2						
+Mollet	de	Peralada	140	111	110	1	106	3	1				
+Navata	880	667	665	2	636	22	7						
+Ordis	282	226	224	2	214	8	2						
+Palau	de	Santa	Eulàlia	74	183	179	4	169	8	2			
+Palau-saverdera	786	480	478	2	442	29	7						
+Pau	308	237	234	3	220	12	2						
+Pedret	i	Marzà	133	266	266	0	250	15	1				
+Peralada	1.298	967	961	6	926	25	10						
+Pont	de	Molins	362	328	327	1	311	12	4				
+Pontós	178	129	128	1	119	3	6						
+Portbou	928	365	362	3	320	34	8						
+Rabós	142	112	112	0	108	3	1						
+Riumors	174	247	245	2	241	3	1						
+Roses	10.737	3.582	3.567	15	3.311	236	20						
+Sant	Climent	Sescebes	476	218	216	2	191	19	6				
+													
+MUNICIPIS	Cens	Votants	Vàlids	Nuls	Sí	No	Blanc						
+Sant	Llorenç	de	la	Muga	165	141	136	5	125	8	3		
+Sant	Miquel	de	Fluvià	578	-	-	-	-	-	-			
+Sant	Mori	124	191	191	0	177	9	5					
+Sant	Pere	Pescador	1.059	647	645	2	625	9	11				
+Santa	Llogaia	d'Àlguema	263	376	374	2	345	27	2				
+"Saus,"	Camallera	i	Llampaies	631	469	463	6	441	10	12			
+Siurana	125	96	96	0	89	5	2						
+Terrades	220	215	214	1	200	11	3						
+Torroella	de	Fluvià	429	283	283	0	270	8	5				
+Ventalló	551	493	491	2	455	18	18						
+Vilabertran	705	441	440	1	417	17	6						
+Viladamat	354	391	390	1	380	2	8						
+Vilafant	4.153	1.396	1.386	10	1290	78	18						
+Vilajuïga	801	366	358	8	335	19	4						
+Vilamacolum	214	224	222	2	214	6	2						
+Vilamalla	867	377	373	4	326	40	7						
+Vilamaniscle	129	99	99	0	99	0	0						
+Vilanant	288	260	258	2	239	12	7						
+Vila-sacra	468	249	249	0	229	15	5						
+Vilaür	101	171	169	2	161	6	2						
+													
+MUNICIPIS	Cens	Votants	Vàlids	Nuls	Sí	No	Blanc						
+Avinyonet	del	Penedès	1.224	742	740	2	695	38	7				
+Castellet	i	la	Gornal	1.73	741	737	4	674	44	19			
+Castellví	de	la	Marca	1.176	828	828	0	763	43	22			
+El	Pla	del	Penedès	913	697	694	3	653	32	9			
+Font-rubí	1	765	758	7	724	20	14						
+Gelida	5.244	2.763	2.739	24	2.503	180	56						
+La	Granada	1.559	1.094	1.083	11	1.005	62	16					
+Les	Cabanyes	687	462	460	2	427	28	5					
+Mediona	1.698	1.077	1.067	10	999	43	25						
+Olèrdola	2.599	1.487	1480	7	1.385	64	31						
+Olesa	de	Bonesvalls	1.286	869	867	2	749	83	35				
+Pacs	del	Penedès	696	453	452	1	404	41	7				
+Pontons	358	306	306	0	282	21	3						
+Puigdàlber	392	317	317	0	297	11	9						
+Sant	Cugat	Sesgarrigues	728	510	507	3	476	18	13				
+Sant	Llorenç	d'Hortons	1.895	1.321	1.307	14	1.215	75	17				
+Sant	Martí	Sarroca	2.326	1.551	1.545	6	1.469	56	20				
+Sant	Pere	de	Riudebitlles	1.775	1.281	1.275	6	1.188	74	13			
+Sant	Quintí	de	Mediona	1.527	1.021	1.017	4	976	35	6			
+Sant	Sadurní	d'Anoia	9.348	5.483	5.46	23	5.036	324	100				
+Santa	Fe	del	Penedès	266	292	291	1	274	10	7			
+Santa	Margarida	i	els	Monjos	4.984	2.071	2.064	7	1.874	163	27		
+Subirats	2.333	1.768	1.747	21	1670	49	28						
+Torrelavit	1.048	829	812	17	783	17	12						
+Torrelles	de	Foix	1.659	848	845	3	745	88	12				
+Vilafranca	del	Penedès	27.339	14.717	14660	57	13.684	765	211				
+Vilobí	del	Penedès	812	613	611	2	591	12	8				
+													
+MUNICIPIS	Cens	Votants	Vàlids	Nuls	Sí	No	Blanc						
+Alàs	i	Cerc	279	205	205	0	200	5	0				
+Arsèguel	64	74	73	1	68	3	2						
+Bassella	188	137	137	0	127	7	3						
+Cabó	83	40	38	2	38	0	0						
+Cava	49	32	32	0	32	0	0						
+Coll	de	Nargó	463	329	326	3	308	11	7				
+El	Pont	de	Bar	135	92	92	0	91	1	0			
+Estamariu	96	88	88	0	87	1	0						
+Fígols	i	Alinyà	226	115	115	0	113	2	0				
+Josa	i	Tuixén	100	100	100	0	98	0	2				
+La	Seu	d'Urgell	8.931	3.278	3.273	5	3.125	127	21				
+La	Vansa	i	Fórnols	148	107	102	5	99	2	1			
+Les	Valls	d'Aguilar	218	56	56	0	54	2	0				
+Les	Valls	de	Valira	590	464	464	0	447	7	10			
+Montferrer	i	Castellbò	788	709	700	9	674	15	11				
+Oliana	1.385	824	821	3	770	39	12						
+Organyà	647	522	505	17	476	21	8						
+Peramola	285	188	182	6	175	7	0						
+Ribera	d'Urgellet	692	306	304	2	296	8	0					
+MUNICIPIS	Cens	Votants	Vàlids	Nuls	Sí	No	Blanc						
+El	Pont	de	Suert	1.705	555	550	5	519	18	13			
+La	Vall	de	Boí	807	741	732	9	652	60	20			
+Vilaller	435	245	242	3	215	23	4						
+													
+MUNICIPIS	Cens	Votants	Vàlids	Nuls	Sí	No	Blanc						
+Argençola	190	138	138	0	137	1	0						
+Bellprat	70	86	85	1	80	4	1						
+Cabrera	d'Anoia	1.024	283	283	0	260	19	4					
+Calaf	2.322	1.327	1.318	9	1.251	47	20						
+Calonge	de	Segarra	163	148	148	0	143	4	1				
+Capellades	4.141	2.316	2.295	21	2.141	124	30						
+Carme	582	386	384	2	364	11	9						
+Castellfollit	de	Riubregós	144	131	131	0	122	7	2				
+Castellolí	453	594	592	2	568	16	8						
+Copons	240	266	266	0	254	6	6						
+El	Bruc	1.49	599	598	1	573	15	10					
+Els	Hostalets	de	Pierola	2.047	1.217	1.202	15	1.097	83	22			
+Els	Prats	de	Rei	450	399	397	2	376	14	7			
+Igualada	28.296	13.776	13.728	48	13.039	528	161						
+Jorba	625	597	592	5	555	22	15						
+La	Llacuna	679	460	460	0	445	7	8					
+La	Pobla	de	Claramunt	1.649	940	940	0	857	67	16			
+La	Torre	de	Claramunt	2.879	939	933	6	844	77	12			
+Masquefa	6.181	2.515	2.501	14	2.252	210	39						
+Montmaneu	128	107	107	0	98	6	3						
+Òdena	2.682	1.236	1.232	4	1.165	47	20						
+Orpí	114	146	146	0	141	2	3						
+Piera	11.144	4.197	4180	17	3780	338	62						
+Pujalt	156	149	147	2	143	3	1						
+Rubió	188	228	225	3	221	2	2						
+Sant	Martí	de	Tous	891	710	710	0	690	16	4			
+Sant	Martí	Sesgueioles	301	222	221	1	201	13	7				
+Sant	Pere	Sallavinera	127	145	144	1	138	1	5				
+Santa	Margarida	de	Montbui	7.061	1.698	1.693	5	1.509	154	30			
+Santa	Maria	de	Miralles	107	226	225	1	216	3	6			
+Vallbona	d'Anoia	1.072	603	602	1	552	42	8					
+Veciana	134	118	118	0	113	1	4						
+Vilanova	del	Camí	9.218	2.455	2.448	7	2.041	360	47				
+													
+MUNICIPIS	Cens	Votants	Vàlids	Nuls	Sí	No	Blanc						
+Arres	52	-	-	-	-	-	-						
+Bausen	57	13	13	0	10	3	0						
+Bossòst	805	-	-	-	-	-	-						
+Canejan	87	-	-	-	-	-	-						
+Es	Bòrdes	208	-	-	-	-	-	-					
+Les	644	345	343	2	289	43	11						
+Naut	Aran	1.353	375	344	31	296	39	9					
+Vielha	e	Mijaran	3.646	872	843	29	697	130	16				
+Vilamòs	123	100	100	0	88	12	0						
+													
+MUNICIPIS	Cens	Votants	Vàlids	Nuls	Sí	No	Blanc						
+Aguilar	de	Segarra	200	388	383	5	364	12	7				
+Artés	4.168	2.914	2.904	10	2.718	145	41						
+Avinyó	1.672	1.334	1.332	2	1.293	24	15						
+Balsareny	2.636	1.127	1.119	8	1.051	57	11						
+Callús	1.487	-	-	-	-	-	-						
+Cardona	3.899	2.018	2.007	11	1.783	158	66						
+Castellbell	i	el	Vilar	2.788	1.801	1.795	6	1.632	139	24			
+Castellfollit	del	Boix	348	341	339	2	330	5	4				
+Castellgalí	1.497	-	-	-	-	-	-						
+Castellnou	de	Bages	956	668	664	4	634	22	8				
+El	Pont	de	Vilomara	i	Rocafort	2.811	1.001	1000	1	886	87	27	
+Fonollosa	1.142	741	731	10	681	40	10						
+Gaià	128	309	306	3	300	4	2						
+Manresa	52.036	25.424	25.311	113	23.864	1.069	378						
+Marganell	219	211	207	4	199	5	3						
+Monistrol	de	Montserrat	2.225	1.116	1.091	25	1.007	64	20				
+Mura	175	314	313	1	290	17	6						
+Navarcles	4.774	2.599	2.57	29	2.416	128	26						
+Navàs	4.563	2.974	2.967	7	2.798	131	38						
+Rajadell	435	549	549	0	527	16	6						
+Sallent	5.239	3.306	3.297	9	3.104	168	25						
+Sant	Feliu	Sasserra	488	453	453	0	437	12	4				
+Sant	Fruitós	de	Bages	6.319	2.95	2.939	11	2.765	146	28			
+Sant	Joan	de	Vilatorrada	8.009	3.332	3.32	12	3.14	133	47			
+Sant	Mateu	de	Bages	535	697	686	11	659	17	10			
+Sant	Salvador	de	Guardiola	2.381	1.197	1.191	6	1.113	70	8			
+Sant	Vicenç	de	Castellet	6.836	3.362	3.323	39	3.026	238	59			
+Santpedor	5.678	3.171	3.154	17	3.04	84	30						
+Súria	4.665	2.95	2.939	11	2.765	146	28						
+Talamanca	157	191	190	1	178	9	3						
+													
+MUNICIPIS	Cens	Votants	Vàlids	Nuls	Sí	No	Blanc						
+Alforja	1.403	716	712	4	692	14	6						
+Almoster	1.077	741	739	2	708	21	10						
+Arbolí	112	226	225	1	213	10	2						
+Botarell	765	500	498	2	476	14	8						
+Cambrils	21.366	6.189	6.152	37	5.695	361	96						
+Capafonts	99	168	167	1	166	0	1						
+Castellvell	del	Camp	2.129	855	850	5	815	31	4				
+Colldejou	149	394	393	1	384	5	4						
+Duesaigües	191	274	270	4	261	6	3						
+La	Febró	38	68	68	0	65	1	2					
+La	Selva	del	Camp	4.096	2.151	2.14	11	2.022	86	32			
+L'Albiol	324	200	199	1	187	9	3						
+L'Aleixar	641	499	496	3	472	18	6						
+L'Argentera	124	228	227	1	215	9	3						
+Les	Borges	del	Camp	1.458	778	775	3	747	19	9			
+Maspujols	593	347	346	1	327	12	7						
+Montbrió	del	Camp	1.996	1.016	1.007	9	968	29	10				
+Mont-roig	del	Camp	7.036	1.15	1.135	15	1.046	79	10				
+Prades	451	436	432	4	423	6	3						
+Pratdip	419	369	366	3	344	11	11						
+Reus	70.482	25.715	25.595	120	23.521	1.659	415						
+Riudecanyes	743	557	554	3	530	19	5						
+Riudecols	907	523	519	4	472	33	14						
+Riudoms	4.58	2.172	2.172	0	2.074	81	17						
+Vandellòs	i	l'Hospitalet	de	l'Infant	4.346	1.531	1.52	11	1.438	74	8		
+Vilanova	d'Escornalbou	375	354	354	0	335	15	4					
+Vilaplana	450	439	436	3	408	21	7						
+Vinyols	i	els	Arcs	1.35	363	363	0	353	8	2			
+													
+MUNICIPIS	Cens	Votants	Vàlids	Nuls	Sí	No	Blanc						
+Aldover	681	370	369	1	355	10	4						
+Alfara	de	Carles	307	142	141	1	134	6	1				
+Benifallet	600	372	368	4	334	26	8						
+Camarles	2.392	1.38	1.376	4	1.302	46	28						
+Deltebre	8.737	5.257	5.215	42	5.01	170	35						
+El	Perelló	1.783	1.232	1.229	3	1.201	20	8					
+L'Aldea	2.9	1.691	1.681	10	1.517	135	29						
+L'Ametlla	de	Mar	4.411	2.2	2.186	14	2.101	55	30				
+L'Ampolla	2.102	1.392	1.377	15	1.311	63	3						
+Paüls	480	321	312	9	278	26	8						
+Roquetes	5.666	1.86	1.847	13	1.719	103	25						
+Tivenys	686	409	408	1	366	27	15						
+Tortosa	22.873	11.752	11.62	132	10.711	744	165						
+Xerta	938	669	667	2	624	37	6						
+													
+MUNICIPIS	Cens	Votants	Vàlids	Nuls	Sí	No	Blanc						
+Albons	512	390	390	0	366	15	9						
+Begur	2.787	1.583	1.575	8	1.443	94	38						
+Bellcaire	d'Empordà	480	285	284	1	274	9	1					
+Calonge	6.931	2.888	2.879	9	2.755	93	31						
+Castell-Platja	d'Aro	6.241	3.234	3.198	36	2.962	199	37					
+Colomers	150	115	114	1	110	2	2						
+Corçà	968	675	665	10	641	14	10						
+"Cruïlles,"	Monells	i	Sant	Sadurní	de	l'Heura	987	758	751	7	723	20	8
+Foixà	245	178	177	1	172	2	3						
+Fontanilles	111	183	183	0	175	7	1						
+Forallac	1.357	1.243	1.238	5	1.182	37	19						
+Garrigoles	124	103	103	0	99	4	0						
+Gualta	246	178	176	2	175	1	0						
+Jafre	301	294	293	1	290	2	1						
+La	Bisbal	d'Empordà	6.91	3.708	3.689	19	3.563	88	38				
+La	Pera	325	301	299	2	293	5	1					
+La	Tallada	d'Empordà	329	-	-	-	-	-	-				
+Mont-ras	1.322	764	756	8	677	68	11						
+Palafrugell	14.353	6.855	6.805	50	6.281	437	87						
+Palamós	12.711	6.421	6.394	27	5.99	341	63						
+Palau-sator	224	145	144	1	142	2	0						
+Pals	1.607	1.061	1.059	2	1.009	38	12						
+Parlavà	311	278	277	1	270	3	4						
+Regencós	206	159	157	2	149	7	1						
+Rupià	188	191	190	1	188	1	1						
+Sant	Feliu	de	Guíxols	14.747	5.421	5.413	8	5.146	216	51			
+Santa	Cristina	d'Aro	3.372	2.222	2.207	15	2.034	131	42				
+Serra	de	Daró	141	132	130	2	128	0	2				
+Torrent	132	103	103	0	94	7	2						
+Torroella	de	Montgrí	6.853	4.004	3.985	19	3.785	152	48				
+Ullà	572	346	344	2	331	8	5						
+Ullastret	208	245	244	1	236	1	7						
+Ultramort	153	121	119	2	117	1	1						
+Vall-llobrega	630	418	415	3	393	15	7						
+Verges	830	859	856	3	825	18	13						
+Vilopriu	152	126	126	0	122	3	1						
+													
+MUNICIPIS	Cens	Votants	Vàlids	Nuls	Sí	No	Blanc						
+Abrera	8.907	2.69	2.664	26	2.202	392	70						
+Begues	4.926	2.875	2.828	47	2.58	187	61						
+Castelldefels	42.14	12.325	12.174	151	10.14	1.675	359						
+Castellví	de	Rosanes	1.365	860	851	9	764	77	10				
+Cervelló	6.718	2.966	2.934	32	2.65	248	36						
+Collbató	3.169	1.876	1.864	12	1.715	107	42						
+Corbera	de	Llobregat	10.259	4.88	4.834	46	4.375	363	96				
+Cornellà	de	Llobregat	61.814	13.472	13.312	160	11.006	2.086	220				
+El	Papiol	3.082	1.719	1.7	19	1.53	144	26					
+El	Prat	de	Llobregat	47.759	12.94	12.815	125	10.414	2.056	345			
+Esparreguera	16.169	6.568	6.526	42	5.861	537	128						
+Esplugues	de	Llobregat	34.508	11.563	11.414	149	9.097	2.011	306				
+Gavà	33.85	9.461	9.323	138	7.966	1.205	152						
+La	Palma	de	Cervelló	2.346	1.541	1.531	10	1.385	114	32			
+Martorell	18.292	7.567	7.468	99	6.386	932	150						
+Molins	de	Rei	19.14	10.25	10.164	86	9.112	854	198				
+Olesa	de	Montserrat	16.967	7.761	7.689	72	6.793	739	157				
+Pallejà	8.382	3.471	3.444	27	2.921	435	88						
+Sant	Andreu	de	la	Barca	19.233	2.865	2.783	82	2.361	366	56		
+Sant	Boi	de	Llobregat	61.409	18.229	18.015	214	14.674	2.947	394			
+Sant	Climent	de	Llobregat	3.055	1.84	1.821	19	1.604	185	32			
+Sant	Esteve	Sesrovires	5.732	2.556	2.541	15	2.277	200	64				
+Sant	Feliu	de	Llobregat	33.081	11.327	11.185	142	9.498	1.374	313			
+Sant	Joan	Despí	24.989	8.467	8.349	118	6.969	1.13	250				
+Sant	Just	Desvern	12.368	6.46	6.393	67	5.682	506	205				
+Sant	Vicenç	dels	Horts	20.972	6.53	6.487	43	5.6	768	119			
+Santa	Coloma	de	Cervelló	5.851	2.928	2.894	34	2.504	286	104			
+Torrelles	de	Llobregat	4.338	2.782	2.763	19	2.547	168	48				
+Vallirana	10.87	4.105	4.06	45	3.548	438	74						
+Viladecans	48.557	11.75	11.674	76	9.3	2.084	290						
+													
+MUNICIPIS	Cens	Votants	Vàlids	Nuls	Sí	No	Blanc						
+Albinyana	1.801	645	633	12	572	50	11						
+Banyeres	del	Penedès	2.215	866	848	18	764	74	10				
+Bellvei	1.537	739	727	12	638	75	14						
+Bonastre	427	260	259	1	240	13	6						
+Calafell	16.781	5.322	5.29	32	4.779	432	79						
+Cunit	8.512	2.393	2.37	23	2.062	265	43						
+El	Montmell	1.076	257	254	3	230	18	6					
+El	Vendrell	25.248	7.73	7.643	87	6.944	584	115					
+La	Bisbal	del	Penedès	2.688	1.117	1.098	19	1.02	74	4			
+L'Arboç	3.416	1.235	1.201	34	1.109	89	3						
+Llorenç	del	Penedès	1.754	1.143	1.139	4	1.075	55	9				
+Masllorenç	364	328	324	4	317	3	4						
+Sant	Jaume	dels	Domenys	1.868	843	835	8	784	42	9			
+Santa	Oliva	2.367	654	650	4	611	36	3					
+													
+MUNICIPIS	Cens	Votants	Vàlids	Nuls	Sí	No	Blanc						
+Badalona	155.409	54.878	54.361	517	45.419	7.723	1.219						
+Barcelona	1.136.354	446.388	441.237	5.151	389.777	37.975	13.485						
+L'Hospitalet	de	Llobregat	174.622	40.387	40.04	347	33.156	5.793	1.091				
+Sant	Adrià	de	Besòs	25.66	6.223	6.122	101	5.007	1.015	100			
+Santa	Coloma	de	Gramenet	78.562	16.445	16.17	275	12.772	2.971	427			
+MUNICIPIS	Cens	Votants	Vàlids	Nuls	Sí	No	Blanc						
+Avià	1.756	1.351	1.349	2	1.304	30	15						
+Bagà	1.831	1.081	1.055	26	1.002	44	9						
+Berga	12.212	7.935	7.847	88	7.522	240	85						
+Borredà	386	444	434	10	278	153	3						
+Capolat	73	72	72	0	71	1	0						
+Casserres	1.293	971	965	6	929	19	17						
+Castell	de	l'Areny	60	53	53	0	53	0	0				
+Castellar	de	n'Hug	141	263	261	2	243	16	2				
+Castellar	del	Riu	141	156	151	5	144	3	4				
+Cercs	1.005	689	670	19	635	25	10						
+Fígols	34	66	65	1	61	3	1						
+Gironella	3.736	2.345	2.321	24	2.227	76	18						
+Gisclareny	27	102	102	0	99	2	1						
+Gósol	211	205	204	1	191	11	2						
+Guardiola	de	Berguedà	749	584	583	1	552	24	7				
+La	Nou	de	Berguedà	133	693	678	15	635	26	17			
+La	Pobla	de	Lillet	991	34	34	0	34	0	0			
+La	Quar	40	317	316	1	304	4	8					
+L'Espunyola	219	148	148	0	139	3	6						
+Montclar	95	123	123	0	121	1	1						
+Montmajor	383	304	304	0	287	13	4						
+Olvan	717	572	568	4	542	19	7						
+Puig-reig	3.347	2.212	2.199	13	2.114	60	25						
+Sagàs	115	311	306	5	288	11	7						
+Saldes	256	455	453	2	425	20	8						
+Sant	Jaume	de	Frontanyà	25	26	26	0	25	0	1			
+Sant	Julià	de	Cerdanyola	214	207	207	0	201	3	3			
+Santa	Maria	de	Merlès	134	356	352	4	332	13	7			
+Vallcebre	219	261	261	0	246	14	1						
+Vilada	391	364	364	0	326	24	14						
+Viver	i	Serrateix	131	188	188	0	181	5	2				
+													
+MUNICIPIS	Cens	Votants	Vàlids	Nuls	Sí	No	Blanc						
+Alp	1.127	525	518	7	501	11	6						
+Bellver	de	Cerdanya	1.527	1.098	1.092	6	1.032	39	21				
+Bolvir	268	271	271	0	263	4	4						
+Das	156	73	73	0	71	2	0						
+Fontanals	de	Cerdanya	374	221	220	1	217	2	1				
+Ger	336	183	182	1	174	4	4						
+Guils	de	Cerdanya	417	246	242	4	232	7	3				
+Isòvol	238	213	213	0	203	5	5						
+Lles	de	Cerdanya	210	184	184	0	178	4	2				
+Llívia	1.059	590	580	10	561	19	0						
+Meranges	81	64	62	2	61	1	0						
+Montellà	i	Martinet	467	319	318	1	304	9	5				
+Prats	i	Sansor	186	262	260	2	239	14	7				
+Prullans	162	258	256	2	243	7	6						
+Puigcerdà	5.887	2.895	2.883	12	2.583	240	60						
+Riu	de	Cerdanya	86	72	72	0	70	0	2				
+Urús	146	535	534	1	505	15	14						
+													
+MUNICIPIS	Cens	Votants	Vàlids	Nuls	Sí	No	Blanc						
+Barberà	de	la	Conca	357	354	352	2	337	11	4			
+Blancafort	310	276	273	3	267	4	2						
+Conesa	99	91	91	0	86	1	4						
+Forès	45	-	-	-	-	-	-						
+Les	Piles	162	144	143	1	137	5	1					
+L'Espluga	de	Francolí	2.812	1.831	1.817	14	1.728	64	25				
+Llorac	83	72	72	0	68	2	2						
+Montblanc	5.249	3.514	3.496	18	3.293	162	41						
+Passanant	i	Belltall	145	249	248	1	243	1	4				
+Pira	383	262	260	2	237	16	7						
+Pontils	106	102	99	3	94	5	0						
+Rocafort	de	Queralt	195	141	141	0	135	4	2				
+Santa	Coloma	de	Queralt	2.039	1.576	1.56	16	1.484	59	17			
+Sarral	1.1	685	684	1	633	35	16						
+Savallà	del	Comtat	54	68	68	0	65	2	1				
+Senan	39	89	89	0	87	1	1						
+Solivella	524	400	400	0	380	11	9						
+Vallclara	85	99	99	0	95	3	1						
+Vallfogona	de	Riucorb	81	207	207	0	189	16	2				
+Vilanova	de	Prades	96	118	118	0	116	2	0				
+Vilaverd	344	234	234	0	225	8	1						
+Vimbodí	i	Poblet	785	592	589	3	565	19	5				
+													
+MUNICIPIS	Cens	Votants	Vàlids	Nuls	Sí	No	Blanc						
+Canyelles	3.201	1.339	1.321	18	1.163	126	32						
+Cubelles	10.611	3.697	3.669	28	3.191	400	78						
+Olivella	2.233	927	910	17	807	89	14						
+Sant	Pere	de	Ribes	20.564	7.236	7.163	73	6.333	680	150			
+Sitges	18.49	8.495	8.432	63	7.467	762	203						
+Vilanova	i	la	Geltrú	48.295	21.743	21.622	121	19.39	1.788	444			
+													
+MUNICIPIS	Cens	Votants	Vàlids	Nuls	Sí	No	Blanc						
+Arbeca	1.655	1.184	1.17	14	1.135	25	10						
+Bellaguarda	266	207	205	2	200	4	1						
+Bovera	235	184	184	0	180	2	2						
+Castelldans	719	445	444	1	405	26	13						
+Cervià	de	les	Garrigues	582	440	439	1	422	11	6			
+El	Cogul	145	142	142	0	138	3	1					
+El	Soleràs	260	209	209	0	200	4	5					
+El	Vilosell	159	160	160	0	151	8	1					
+Els	Omellons	192	140	140	0	127	12	1					
+Els	Torms	126	105	105	0	103	2	0					
+Fulleda	84	70	70	0	64	0	6						
+Granyena	de	les	Garrigues	125	113	112	1	104	8	0			
+Juncosa	346	222	222	0	199	20	3						
+Juneda	2.248	1.505	1.497	8	1.436	34	27						
+La	Floresta	130	115	115	0	111	1	3					
+La	Granadella	561	450	448	2	435	6	7					
+La	Pobla	de	Cérvoles	173	135	133	2	127	4	2			
+L'Albagés	340	193	190	3	185	5	0						
+L'Albi	627	449	445	4	409	29	7						
+Les	Borges	Blanques	4.357	2.442	2.423	19	2.34	62	21				
+L'Espluga	Calba	308	280	271	9	254	5	12					
+Puiggròs	234	269	268	1	255	12	1						
+Tarrés	81	80	80	0	77	3	0						
+Vinaixa	417	300	300	0	280	17	3						
+													
+MUNICIPIS	Cens	Votants	Vàlids	Nuls	Sí	No	Blanc						
+Argelaguer	336	296	294	2	275	14	5						
+Besalú	1.775	1.136	1.136	0	1.099	31	6						
+Beuda	131	96	96	0	95	0	1						
+Castellfollit	de	la	Roca	717	493	491	2	472	7	12			
+La	Vall	de	Bianya	995	876	870	6	838	19	13			
+La	Vall	d'en	Bas	2.375	2.31	2.288	22	2.218	30	40			
+Les	Planes	d'Hostoles	1.255	906	895	11	878	7	10				
+Les	Preses	1.364	1.111	1.102	9	1.065	27	10					
+Maià	de	Montcal	301	204	203	1	202	0	1				
+Mieres	247	299	296	3	280	6	10						
+Montagut	i	Oix	696	560	554	6	529	10	15				
+Olot	23.041	12.724	12.669	55	12.133	400	136						
+Riudaura	364	546	543	3	533	4	6						
+Sales	de	Llierca	92	185	185	0	178	3	4				
+Sant	Aniol	de	Finestres	277	318	316	2	300	7	9			
+Sant	Feliu	de	Pallerols	992	790	786	4	767	13	6			
+Sant	Ferriol	150	367	366	1	351	7	8					
+Sant	Jaume	de	Llierca	656	494	491	3	474	10	7			
+Sant	Joan	les	Fonts	2.265	1.905	1.903	2	1.835	43	25			
+Santa	Pau	1.254	1.286	1.281	5	1.222	35	24					
+Tortellà	613	451	443	8	409	22	12						
+													
+MUNICIPIS	Cens	Votants	Vàlids	Nuls	Sí	No	Blanc						
+Aiguaviva	556	376	374	2	364	8	2						
+Bescanó	3.592	2.014	2.01	4	1.965	29	16						
+Bordils	1.134	785	784	1	759	17	8						
+Campllong	366	398	395	3	376	17	2						
+Canet	d'Adri	537	601	599	2	572	19	8					
+Cassà	de	la	Selva	6.77	3.574	3.56	14	3.466	58	36			
+Celrà	3.117	2.02	2.01	10	1.914	64	32						
+Cervià	de	Ter	652	569	567	2	551	11	5				
+Flaçà	696	542	538	4	516	19	3						
+Fornells	de	la	Selva	1.873	1.484	1.474	10	1.422	41	11			
+Girona	64.395	30.686	30.499	187	28.965	1.106	428						
+Juià	225	361	360	1	334	19	7						
+Llagostera	5.543	3.064	3.052	12	2.937	96	19						
+Llambilles	545	667	662	5	646	11	5						
+Madremanya	196	150	147	3	144	1	2						
+Quart	2.55	1.397	1.392	5	1.343	32	17						
+Salt	14.515	5.879	5.853	26	5.49	327	36						
+Sant	Andreu	Salou	125	422	420	2	409	8	3				
+Sant	Gregori	2.626	2.105	2.099	6	2.032	43	24					
+Sant	Joan	de	Mollet	380	291	290	1	278	10	2			
+Sant	Jordi	Desvalls	522	485	484	1	472	6	6				
+Sant	Julià	de	Ramis - Medinyà	2.475	559	554	5	526	22	6			
+Sant	Martí	de	Llémena	454	511	505	6	482	11	12			
+Sant	Martí	Vell	180	208	205	3	199	3	3				
+Sarrià	de	Ter	3.788	2.677	2.656	21	2.494	130	32				
+Vilablareix	2.087	1.651	1.633	18	1.577	52	4						
+Viladasens	165	157	156	1	147	4	5						
+													
+MUNICIPIS	Cens	Votants	Vàlids	Nuls	Sí	No	Blanc						
+Alella	7.084	4.178	4.152	26	3.818	240	94						
+Arenys	de	Mar	11.47	5.707	5.656	51	5.381	210	65				
+Arenys	de	Munt	6.483	4.136	4.116	20	3.93	147	39				
+Argentona	9.18	5.174	5.13	44	4.811	241	78						
+Cabrera	de	Mar	3.48	2.628	2.615	13	2.411	154	50				
+Cabrils	5.122	3.005	2.996	9	2.828	111	57						
+Caldes	d'Estrac	1.981	1.155	1.13	25	1.056	51	23					
+Calella	12.547	5.975	5.963	12	5.632	257	74						
+Canet	de	Mar	10.709	5.531	5.492	39	5.21	185	97				
+Dosrius	3.883	1.639	1.639	0	1.528	111	0						
+El	Masnou	17.547	9.837	9.772	65	8.891	642	239					
+Malgrat	de	Mar	13.315	5.709	5.657	52	5.209	330	118				
+Mataró	86.351	31.382	31.158	224	28.266	2.357	535						
+Montgat	8.748	4.591	4.559	32	4.041	433	85						
+Òrrius	538	474	472	2	464	5	3						
+Palafolls	6.73	2.751	2.72	31	2.461	207	52						
+Pineda	de	Mar	18.641	6.453	6.433	20	6.021	339	73				
+Premià	de	Dalt	7.635	4.186	4.167	19	3.756	330	81				
+Premià	de	Mar	20.326	9.135	9.075	60	8.229	646	200				
+Sant	Andreu	de	Llavaneres	7.648	4.283	4.241	42	3.928	229	84			
+Sant	Cebrià	de	Vallalta	2.39	-	-	-	-	-	-			
+Sant	Iscle	de	Vallalta	944	1.246	1.242	4	1.194	30	18			
+Sant	Pol	de	Mar	3.686	2.505	2.491	14	2.385	78	28			
+Sant	Vicenç	de	Montalt	4.325	2.594	2.581	13	2.388	144	49			
+Santa	Susanna	2.327	1.005	997	8	934	54	9					
+Teià	4.802	3.04	3.018	22	2.837	144	37						
+Tiana	6.578	3.374	3.363	11	3.151	159	53						
+Tordera	12.097	4.779	4.746	33	4.409	295	42						
+Vilassar	de	Dalt	6.873	4.371	4.346	25	4.046	230	70				
+Vilassar	de	Mar	15.422	8.864	8.784	80	8.032	557	195				
+													
+MUNICIPIS	Cens	Votants	Vàlids	Nuls	Sí	No	Blanc						
+Calders	763	856	847	9	822	14	11						
+Castellcir	519	548	545	3	528	13	4						
+Castellterçol	1.847	558	545	13	512	24	9						
+Collsuspina	266	333	333	0	320	9	4						
+Granera	73	-	-	-	-	-	-						
+L'Estany	343	1.053	1.051	2	1.014	26	11						
+Moià	4.248	2.064	2.055	9	1.961	74	20						
+Monistrol	de	Calders	563	570	566	4	538	25	3				
+Sant	Quirze	Safaja	453	667	666	1	637	14	15				
+Santa	Maria	d'Oló	830	679	679	0	662	11	6				
+													
+MUNICIPIS	Cens	Votants	Vàlids	Nuls	Sí	No	Blanc						
+Alcanar	6.281	4.447	4.43	17	4.194	169	67						
+Amposta	14.251	10.334	10.291	43	9.672	510	109						
+Freginals	281	239	238	1	210	22	6						
+Godall	520	244	242	2	202	29	11						
+La	Galera	557	281	277	4	255	18	4					
+La	Sénia	3.963	1.637	1.621	16	1.422	166	33					
+Mas	de	Barberans	463	205	205	0	176	17	12				
+Masdenverge	846	433	432	1	404	26	2						
+Sant	Carles	de	la	Ràpita	10.351	329	327	2	304	18	5		
+Sant	Jaume	d'Enveja	2.743	1.432	1.424	8	1.334	61	29				
+Santa	Bàrbara	2.672	1.331	1.323	8	1.204	111	8					
+Ulldecona	3.946	1.919	1.907	12	1.772	107	28						
+													
+MUNICIPIS	Cens	Votants	Vàlids	Nuls	Sí	No	Blanc						
+Àger	482	313	312	1	296	9	7						
+Albesa	1.124	838	837	1	788	32	17						
+Algerri	357	284	270	14	244	14	12						
+Alòs	de	Balaguer	104	140	140	0	138	2	0				
+Artesa	de	Segre	2.326	1.567	1.561	6	1.499	40	22				
+Balaguer	10.546	3.434	3.414	20	3.253	126	35						
+Bellcaire	d'Urgell	1.014	743	741	2	720	16	5					
+Bellmunt	d'Urgell	151	126	125	1	119	3	3					
+Cabanabona	72	290	290	0	275	9	6						
+Camarasa	750	458	458	0	441	10	7						
+Castelló	de	Farfanya	451	364	361	3	340	14	7				
+Cubells	299	211	207	4	189	8	10						
+Foradada	137	112	109	3	106	3	0						
+Ivars	de	Noguera	273	203	202	1	184	13	5				
+La	Baronia	de	Rialb	208	158	157	1	142	11	4			
+La	Sentiu	de	Sió	398	283	282	1	267	10	5			
+Les	Avellanes	i	Santa	Linya	375	310	310	0	287	15	8		
+Menàrguens	623	459	447	12	410	30	7						
+Montgai	569	373	370	3	339	20	11						
+Oliola	181	190	186	4	181	2	3						
+Os	de	Balaguer	783	1.463	1.457	6	1.382	59	16				
+Penelles	376	258	254	4	242	8	4						
+Ponts	1.797	721	717	4	701	12	4						
+Preixens	368	251	251	0	235	14	2						
+Térmens	1.015	683	681	2	657	13	11						
+Tiurana	66	87	87	0	85	2	0						
+Torrelameu	486	430	430	0	416	7	7						
+Vallfogona	de	Balaguer	1.383	1.37	1.353	17	1.287	49	17				
+Vilanova	de	l'Aguda	182	149	146	3	136	9	1				
+Vilanova	de	Meià	345	298	298	0	292	0	6				
+													
+													
+MUNICIPIS	Cens	Votants	Vàlids	Nuls	Sí	No	Blanc						
+Alpens	223	292	292	0	279	10	3						
+Balenyà	2.762	1.765	1.763	2	1.625	108	30						
+Calldetenes	1.864	1.595	1.595	0	1.552	30	13						
+Centelles	5.739	3.374	3.363	11	3.224	114	25						
+El	Brull	188	335	335	0	328	3	4					
+Espinelves	162	536	535	1	527	4	4						
+Folgueroles	1.675	1.487	1.487	0	1.451	19	17						
+Gurb	2.001	1.562	1.56	2	1.516	28	16						
+Les	Masies	de	Roda	578	449	449	0	436	12	1			
+Les	Masies	de	Voltregà	2.45	1.756	1.747	9	1.679	47	21			
+L'Esquirol	1.739	1.625	1.62	5	1.583	15	22						
+Lluçà	216	189	189	0	186	0	3						
+Malla	218	466	466	0	450	6	10						
+Manlleu	12.911	7.169	7.137	32	6.739	296	102						
+Montesquiu	704	622	617	5	599	14	4						
+Muntanyola	462	400	394	6	380	9	5						
+Olost	993	807	804	3	780	14	10						
+Orís	255	203	203	0	196	5	2						
+Oristà	466	456	449	7	438	5	6						
+Perafita	327	264	264	0	260	4	0						
+Prats	de	Lluçanès	2.103	1.444	1.435	9	1.39	34	11				
+Roda	de	Ter	4.551	2.954	2.949	5	2.823	91	35				
+Rupit	i	Pruit	227	393	393	0	373	12	8				
+Sant	Agustí	de	Lluçanès	82	202	202	0	185	10	7			
+Sant	Bartomeu	del	Grau	663	477	477	0	451	19	7			
+Sant	Boi	de	Lluçanès	442	396	396	0	379	7	10			
+Sant	Hipòlit	de	Voltregà	2.588	1.694	1.694	0	1.646	34	14			
+Sant	Julià	de	Vilatorta	2.356	1.877	1.872	5	1.83	26	16			
+Sant	Martí	d'Albars	92	109	109	0	105	3	1				
+Sant	Martí	de	Centelles	820	593	591	2	553	21	17			
+Sant	Pere	de	Torelló	1.871	1.432	1.427	5	1.377	30	20			
+Sant	Quirze	de	Besora	1.643	1.223	1.218	5	1.155	42	21			
+Sant	Sadurní	d'Osormort	73	208	204	4	196	4	4				
+Sant	Vicenç	de	Torelló	1.553	1.415	1.413	2	1.386	14	13			
+Santa	Cecília	de	Voltregà	162	287	287	0	284	1	2			
+Santa	Eugènia	de	Berga	1.665	1.235	1.235	0	1.203	25	7			
+Santa	Eulàlia	de	Riuprimer	961	738	735	3	719	7	9			
+Santa	Maria	de	Besora	131	159	159	0	154	2	3			
+Seva	2.673	1.844	1.837	7	1.769	30	38						
+Sobremunt	70	71	71	0	69	2	0						
+Sora	151	277	277	0	269	5	3						
+Taradell	4.779	3.523	3.519	4	3.433	63	23						
+Tavèrnoles	247	527	524	3	506	13	5						
+Tavertet	97	344	341	3	315	20	6						
+Tona	5.963	4.013	3.964	49	3.756	166	42						
+Torelló	10.224	6.213	6.181	32	5.953	165	63						
+Vic	26.471	15.561	15.52	41	14.918	421	181						
+Vidrà	141	190	190	0	181	6	3						
+													
+													
+MUNICIPIS	Cens	Votants	Vàlids	Nuls	Sí	No	Blanc						
+Viladrau	796	809	808	1	770	29	9						
+Vilanova	de	Sau	274	232	231	1	226	3	2				
+													
+													
+													
+MUNICIPIS	Cens	Votants	Vàlids	Nuls	Sí	No	Blanc						
+Abella	de	la	Conca	144	107	107	0	97	7	3			
+Castell	de	Mur	148	181	180	1	172	4	4				
+Conca	de	Dalt	360	251	248	3	232	8	8				
+Gavet	de	la	Conca	253	163	163	0	160	0	3			
+Isona	i	Conca	Dellà	824	550	549	1	524	18	7			
+La	Pobla	de	Segur	2.185	1.245	1.232	13	1.182	33	17			
+La	Torre	de	Cabdella	652	442	439	3	415	19	5			
+Llimiana	136	92	92	0	88	2	2						
+Salàs	de	Pallars	262	196	194	2	184	8	2				
+Sant	Esteve	de	la	Sarga	113	96	94	2	86	4	4		
+Sarroca	de	Bellera	112	79	78	1	70	8	0				
+Senterada	104	224	219	5	206	8	5						
+Talarn	345	255	253	2	232	16	5						
+Tremp	4.279	2.166	2.166	0	2.064	102	0						
+													
+													
+													
+													
+MUNICIPIS	Cens	Votants	Vàlids	Nuls	Sí	No	Blanc						
+Alins	236	205	199	6	195	4	0						
+Alt	Àneu	351	281	278	3	267	6	5					
+Baix	Pallars	277	180	175	5	168	7	0					
+Espot	285	217	216	1	190	20	6						
+Esterri	d'Àneu	522	365	356	9	345	5	6					
+Esterri	de	Cardós	60	83	82	1	81	1	0				
+Farrera	105	94	94	0	89	4	1						
+La	Guingueta	d'Àneu	236	272	271	1	259	12	0				
+Lladorre	193	132	130	2	126	3	1						
+Llavorsí	290	162	160	2	155	3	2						
+Rialp	499	461	454	7	418	31	5						
+Soriguera	331	364	361	3	347	13	1						
+Sort	1.495	645	623	22	592	24	7						
+Tírvia	122	97	97	0	94	2	1						
+Vall	de	Cardós	293	167	165	2	155	9	1				
+													
+													
+MUNICIPIS	Cens	Votants	Vàlids	Nuls	Sí	No	Blanc						
+Banyoles	12.546	7.034	7.004	30	6.775	151	78						
+Camós	548	538	535	3	506	19	10						
+Cornellà	del	Terri	1.715	1.15	1.147	3	1.122	17	8				
+Crespià	177	204	203	1	190	5	8						
+Esponellà	331	260	257	3	250	3	4						
+Fontcoberta	1.134	781	781	0	757	15	9						
+Palol	de	Revardit	354	1.002	999	3	982	11	6				
+Porqueres	3.437	2.23	2.227	3	2.156	52	19						
+Sant	Miquel	de	Campmajor	178	194	191	3	182	4	5			
+Serinyà	844	710	710	0	686	13	11						
+Vilademuls	582	720	716	4	677	21	18						
+													
+MUNICIPIS	Cens	Votants	Vàlids	Nuls	Sí	No	Blanc						
+Barbens	568	417	415	2	389	19	7						
+Bell-lloc	d'Urgell	1.651	878	878	0	878	0	0					
+Bellvís	1.555	1.156	1.153	3	1.111	34	8						
+Castellnou	de	Seana	556	376	373	3	365	7	1				
+El	Palau	d'Anglesola	1.62	647	640	7	610	22	8				
+El	Poal	509	359	356	3	334	19	3					
+Fondarella	640	446	446	0	412	20	14						
+Golmés	1.273	877	877	0	848	29	0						
+Ivars	d'Urgell	1.168	825	813	12	787	26	0					
+Linyola	1.915	1.358	1.358	0	1.358	0	0						
+Miralcamp	1.028	770	765	5	711	40	14						
+Mollerussa	8.585	4.945	4.881	64	4.582	234	65						
+Sidamon	566	336	336	0	336	0	0						
+Torregrossa	1.558	926	922	4	860	48	14						
+Vilanova	de	Bellpuig	891	658	658	0	639	16	3				
+Vila-sana	548	391	390	1	361	28	1						
+													
+													
+													
+MUNICIPIS	Cens	Votants	Vàlids	Nuls	Sí	No	Blanc						
+Bellmunt	del	Priorat	231	165	165	0	153	11	1				
+Cabacés	254	206	204	2	187	9	8						
+Capçanes	330	270	270	0	261	7	2						
+Cornudella	de	Montsant	728	790	788	2	753	26	9				
+El	Lloar	105	89	89	0	86	3	0					
+El	Masroig	365	282	277	5	272	2	3					
+El	Molar	226	229	223	6	205	16	2					
+Els	Guiamets	238	213	210	3	194	11	5					
+Falset	1.975	1.296	1.281	15	1.232	37	12						
+Gratallops	182	153	153	0	144	9	0						
+La	Bisbal	de	Falset	161	129	129	0	125	3	1			
+La	Figuera	90	82	82	0	73	3	6					
+La	Morera	de	Montsant	99	105	104	1	99	2	3			
+La	Torre	de	Fontaubella	107	115	115	0	111	2	2			
+La	Vilella	Alta	100	149	145	4	137	4	4				
+La	Vilella	Baixa	138	97	97	0	94	0	3				
+Marçà	439	431	425	6	403	20	2						
+Margalef	89	110	107	3	101	4	2						
+Poboleda	279	260	260	0	252	6	2						
+Porrera	392	329	322	7	314	2	6						
+Pradell	de	la	Teixeta	143	137	134	3	131	2	1			
+Torroja	del	Priorat	130	133	133	0	128	3	2				
+Ulldemolins	353	341	340	1	324	12	4						
+													
+													
+													
+MUNICIPIS	Cens	Votants	Vàlids	Nuls	Sí	No	Blanc						
+Ascó	1.381	753	735	18	691	31	13						
+Benissanet	782	641	632	9	607	20	5						
+Flix	2.86	1.756	1.738	18	1.668	57	13						
+Garcia	399	262	258	4	247	5	6						
+Ginestar	552	449	445	4	416	22	7						
+La	Palma	d'Ebre	306	248	248	0	235	6	7				
+La	Torre	de	l'Espanyol	439	357	355	2	335	14	6			
+Miravet	526	433	432	1	406	22	4						
+Móra	d'Ebre	3.919	1.802	1.772	30	1.662	103	7					
+Móra	la	Nova	2.143	1.138	1.132	6	1.052	65	15				
+Rasquera	599	484	484	0	469	10	5						
+Riba-roja	d'Ebre	933	531	523	8	482	37	4					
+Tivissa	1.281	999	991	8	954	26	11						
+Vinebre	299	209	207	2	190	14	3						
+													
+													
+MUNICIPIS	Cens	Votants	Vàlids	Nuls	Sí	No	Blanc						
+Campdevànol	2.717	1.704	1.693	11	1.595	79	19						
+Campelles	104	115	115	0	113	2	0						
+Camprodon	1.759	1.179	1.178	1	1.123	34	21						
+Gombrèn	138	196	195	1	185	8	2						
+Les	Llosses	179	206	206	0	196	6	4					
+Llanars	407	361	359	2	341	15	3						
+Molló	264	302	301	1	290	7	4						
+Ogassa	190	213	212	1	200	6	6						
+Pardines	130	146	146	0	142	2	2						
+Planoles	228	238	238	0	229	4	5						
+Queralbs	161	231	231	0	214	10	7						
+Ribes	de	Freser	1.482	993	980	13	936	37	7				
+Ripoll	8.053	4.378	4.364	14	4.111	190	63						
+Sant	Joan	de	les	Abadesses	2.7	2.004	1.977	27	1.894	68	15		
+Sant	Pau	de	Segúries	549	441	441	0	426	14	1			
+Setcases	144	211	210	1	202	5	3						
+Toses	135	143	143	0	142	1	0						
+Vallfogona	de	Ripollès	171	323	322	1	312	6	4				
+Vilallonga	de	Ter	314	275	275	0	263	11	1				
+													
+													
+MUNICIPIS	Cens	Votants	Vàlids	Nuls	Sí	No	Blanc						
+Biosca	169	74	73	1	68	2	3						
+Cervera	5.85	2.853	2.837	16	2.71	83	44						
+Els	Plans	de	Sió	451	305	299	6	293	2	4			
+Estaràs	148	0	0	0	0	0	0						
+Granyanella	135	227	226	1	219	5	2						
+Granyena	de	Segarra	130	214	214	0	208	4	2				
+Guissona	2.766	1.491	1.477	14	1.357	79	41						
+Ivorra	98	125	125	0	123	1	1						
+Les	Oluges	140	138	137	1	132	3	2					
+Massoteres	136	157	157	0	151	3	3						
+Montoliu	de	Segarra	153	6	4	2	4	0	0				
+Montornès	de	Segarra	84	154	154	0	145	8	1				
+Ribera	d'Ondara	375	281	279	2	267	11	1					
+Sanaüja	334	307	307	0	296	8	3						
+Sant	Guim	de	Freixenet	743	525	522	3	478	35	9			
+Sant	Guim	de	la	Plana	133	93	92	1	92	0	0		
+Sant	Ramon	423	382	380	2	365	8	7					
+Talavera	226	193	190	3	185	3	2						
+Tarroja	de	Segarra	141	273	273	0	253	12	8				
+Torà	922	710	707	3	678	26	3						
+Torrefeta	i	Florejacs	494	252	248	4	240	5	3				
+													
+													
+MUNICIPIS	Cens	Votants	Vàlids	Nuls	Sí	No	Blanc						
+Aitona	1.545	966	962	4	909	36	17						
+Albatàrrec	1.405	755	748	7	690	50	8						
+Alcanó	211	273	270	3	259	7	4						
+Alcarràs	5.243	2.799	2.785	14	2.578	171	36						
+Alcoletge	2.334	1.066	1.059	7	991	49	19						
+Alfarràs	2.146	890	884	6	814	52	18						
+Alfés	260	138	138	0	132	2	4						
+Alguaire	2.107	1.192	1.178	14	1.128	32	18						
+Almacelles	4.572	1.868	1.851	17	1.67	145	36						
+Almatret	289	267	262	5	257	3	2						
+Almenar	2.607	1.514	1.494	20	1.406	72	16						
+Alpicat	4.531	2.757	2.749	8	2.511	178	60						
+Artesa	de	Lleida	1.096	769	768	1	747	17	4				
+Aspa	184	172	171	1	161	6	4						
+Benavent	de	Segrià	1.055	649	647	2	612	24	11				
+Corbins	998	656	649	7	621	13	15						
+Els	Alamús	571	503	496	7	466	19	11					
+Gimenells	i	el	Pla	de	la	Font	857	388	376	12	333	35	8
+La	Granja	d'Escarp	707	420	419	1	360	51	8				
+La	Portella	397	316	313	3	297	12	4					
+Llardecans	417	325	325	0	312	9	4						
+Lleida	92.002	34.033	33.681	352	30.553	2.727	401						
+Maials	706	458	455	3	436	9	10						
+Massalcoreig	403	277	269	8	245	17	7						
+Montoliu	de	Lleida	364	294	290	4	279	7	4				
+Puigverd	de	Lleida	1.036	480	479	1	456	12	11				
+Rosselló	2.11	1.153	1.147	6	1.066	51	30						
+Sarroca	de	Lleida	329	248	248	0	240	5	3				
+Seròs	1.231	856	853	3	779	50	24						
+Soses	1.108	778	774	4	746	19	9						
+Sudanell	680	480	479	1	456	12	11						
+Sunyer	233	162	162	0	158	4	0						
+Torrebesses	253	215	214	1	201	10	3						
+Torrefarrera	3.035	1.855	1.842	13	1.743	77	22						
+Torres	de	Segre	1.397	787	774	13	749	25	0				
+Torre-serona	275	136	132	4	122	7	3						
+Vilanova	de	la	Barca	728	401	394	7	374	17	3			
+Vilanova	de	Segrià	707	524	521	3	489	24	8				
+													
+MUNICIPIS	Cens	Votants	Vàlids	Nuls	Sí	No	Blanc						
+Amer	1.731	1.453	1.446	7	1.397	37	12						
+Anglès	3.64	1.975	1.966	9	1.899	37	30						
+Arbúcies	4.015	2.991	2.979	12	2.886	61	32						
+Blanes	27.269	8.028	7.989	39	7.229	651	109						
+Breda	2.821	2.157	2.132	25	2.028	82	22						
+Brunyola	293	501	499	2	487	8	4						
+Caldes	de	Malavella	5.307	2.728	2.698	30	2.53	132	36				
+Fogars	de	la	Selva	1.139	731	724	7	646	68	10			
+Hostalric	2.94	1.621	1.605	16	1.489	99	17						
+La	Cellera	de	Ter	1.516	1.321	1.32	1	1.283	31	6			
+Lloret	de	Mar	19.555	6.22	6.198	22	5.593	490	115				
+Maçanet	de	la	Selva	4.954	2.024	2.018	6	1.843	150	25			
+Massanes	559	351	346	5	331	10	5						
+Osor	354	288	285	3	274	5	6						
+Riells	i	Viabrea	2.969	1.508	1.506	2	1.427	73	6				
+Riudarenes	1.515	926	925	1	874	36	15						
+Riudellots	de	la	Selva	1.401	1.139	1.132	7	1.094	26	12			
+Sant	Feliu	de	Buixalleu	643	513	511	2	492	12	7			
+Sant	Hilari	Sacalm	3.982	2.297	2.289	8	2.215	52	22				
+Sant	Julià	del	Llor	i	Bonmati	897	874	869	5	842	19	8	
+Santa	Coloma	de	Farners	8.295	3.574	3.572	2	3.483	69	20			
+Sils	4.216	1.98	1.959	21	1.867	79	13						
+Susqueda	80	64	64	0	63	1	0						
+Tossa	de	Mar	3.791	2.119	2.104	15	1.94	145	19				
+Vidreres	5.424	2.582	2.576	6	2.456	91	29						
+Vilobí	d'Onyar	2.26	1.729	1.723	6	1.666	38	19					
+													
+													
+MUNICIPIS	Cens	Votants	Vàlids	Nuls	Sí	No	Blanc						
+Castellar	de	la	Ribera	108	91	90	1	88	0	2			
+Clariana	de	Cardener	117	260	260	0	243	10	7				
+Guixers	117	157	153	4	141	11	1						
+La	Coma	i	la	Pedra	231	377	376	1	356	17	3		
+La	Molsosa	95	67	66	1	63	2	1					
+Lladurs	166	296	295	1	280	11	4						
+Llobera	175	288	286	2	271	12	3						
+Navès	227	221	219	2	218	1	0						
+Odèn	219	235	235	0	227	2	6						
+Olius	685	481	477	4	458	7	12						
+Pinell	de	Solsonès	181	127	126	1	125	0	1				
+Pinós	230	219	219	0	209	6	4						
+Riner	213	431	427	4	400	11	16						
+Sant	Llorenç	de	Morunys	759	527	526	1	509	10	7			
+Solsona	6.212	3.011	3.002	9	2.893	71	38						
+													
+													
+MUNICIPIS	Cens	Votants	Vàlids	Nuls	Sí	No	Blanc						
+Altafulla	3.534	2.324	2.273	51	2.051	134	88						
+Constantí	4.161	1.493	1.483	10	1.398	71	14						
+Creixell	2.505	884	864	20	784	68	12						
+El	Catllar	3.13	1.603	1.587	16	1.493	66	28					
+El	Morell	2.474	1.351	1.339	12	1.255	67	17					
+Els	Pallaresos	3.301	1.944	1.94	4	1.768	141	31					
+La	Canonja	4.374	1.118	1.104	14	967	109	28					
+La	Nou	de	Gaià	393	369	361	8	339	17	5			
+La	Pobla	de	Mafumet	2.606	857	848	9	726	103	19			
+La	Pobla	de	Montornès	2.044	937	925	12	850	58	17			
+La	Riera	de	Gaià	1.177	620	616	4	578	33	5			
+La	Secuita	1.247	692	688	4	650	29	9					
+Perafort	880	657	655	2	596	42	17						
+Renau	106	47	47	0	42	2	3						
+Roda	de	Berà	4.647	1.233	1.217	16	1.105	95	17				
+Salomó	340	311	311	0	295	12	4						
+Salou	14.392	3.36	3.329	31	2.963	317	49						
+Tarragona	90.275	20.582	20.416	166	18.509	1.358	549						
+Torredembarra	10.688	3.645	3.628	17	3.361	215	52						
+Vespella	de	Gaià	301	234	234	0	215	16	3				
+Vilallonga	del	Camp	1.584	1.047	1.041	6	957	71	13				
+Vila-seca	14.599	3.083	3.069	14	2.888	146	35						
+													
+													
+MUNICIPIS	Cens	Votants	Vàlids	Nuls	Sí	No	Blanc						
+Arnes	408	427	425	2	384	26	15						
+Batea	1.497	766	756	10	669	69	18						
+Bot	517	308	303	5	288	10	5						
+Caseres	216	109	107	2	98	6	3						
+Corbera	d'Ebre	805	570	564	6	513	30	21					
+El	Pinell	de	Brai	810	516	507	9	472	20	15			
+Gandesa	2.015	1.07	1.067	3	1.029	25	13						
+Horta	de	Sant	Joan	921	622	613	9	561	40	12			
+La	Fatarella	854	543	535	8	504	20	11					
+La	Pobla	de	Massaluca	259	190	186	4	166	16	4			
+Prat	de	Comte	146	111	111	0	103	4	4				
+Vilalba	dels	Arcs	554	369	363	6	339	14	10				
+													
+MUNICIPIS	Cens	Votants	Vàlids	Nuls	Sí	No	Blanc						
+Agramunt	3.762	1.982	1.977	5	1.891	62	24						
+Anglesola	976	637	635	2	610	19	6						
+Belianes	422	317	305	12	289	10	6						
+Bellpuig	3.233	2.198	2.194	4	2.077	79	38						
+Castellserà	823	674	652	22	606	37	9						
+Ciutadilla	178	222	216	6	208	6	2						
+Els	Omells	de	na	Gaia	122	103	103	0	102	1	0		
+Guimerà	231	146	145	1	145	0	0						
+La	Fuliola	902	500	498	2	466	24	8					
+Maldà	195	172	172	0	166	3	3						
+Nalec	86	78	76	2	71	2	3						
+Ossó	de	Sió	181	294	291	3	278	12	1				
+Preixana	309	249	240	9	229	7	4						
+Puigverd	d'Agramunt	172	254	252	2	229	16	7					
+Sant	Martí	de	Riucorb	567	440	436	4	406	16	14			
+Tàrrega	10.625	5.565	5.53	35	5.289	169	72						
+Tornabous	564	374	374	0	359	9	6						
+Vallbona	de	les	Monges	204	179	176	3	168	2	6			
+Verdú	720	411	405	6	384	15	6						
+Vilagrassa	361	486	477	9	456	15	6						
+													
+MUNICIPIS	Cens	Votants	Vàlids	Nuls	Sí	No	Blanc						
+Badia	del	Vallès	10.553	2.055	2.031	24	1.506	478	47				
+Barberà	del	Vallès	24.57	7.318	7.203	115	5.709	1.308	186				
+Castellar	del	Vallès	17.949	9.144	9.06	84	8.327	607	126				
+Castellbisbal	8.998	3.977	3.955	22	3.343	525	87						
+Cerdanyola	del	Vallès	43.03	17.94	17.722	218	15.036	2.158	528				
+Gallifa	152	184	182	2	173	3	6						
+Matadepera	6.835	4.553	4.537	16	4.333	141	63						
+Montcada	i	Reixac	25.081	8.658	8.571	87	7.04	1.26	271				
+Palau-solità	i	Plegamans	10.891	15.491	15.459	32	10.869	4.472	118				
+Polinyà	5.91	10.247	10.215	32	9.717	447	51						
+Rellinars	579	369	364	5	328	30	6						
+Ripollet	26.613	6.931	6.855	76	5.78	916	159						
+Rubí	53.823	16.73	16.586	144	14.348	1.916	322						
+Sabadell	152.377	62.896	62.215	681	54.058	6.865	1.292						
+Sant	Cugat	del	Vallès	59.826	32.805	32.468	337	28.985	2.507	976			
+Sant	Llorenç	Savall	1.852	1.266	1.241	25	1.155	65	21				
+Sant	Quirze	del	Vallès	14.531	15.846	15.758	88	14.346	1.108	304			
+Santa	Perpètua	de	Mogoda	18.335	6.434	6.366	68	5.298	919	149			
+Sentmenat	6.461	3.001	2.99	11	2.739	218	33						
+Terrassa	153.025	60.294	59.753	541	52.837	5.73	1.186						
+Ullastrell	1.507	1.357	1.352	5	1.236	93	23						
+Vacarisses	4.536	1.955	1.941	14	1.761	150	30						
+Viladecavalls	5.678	3.286	3.272	14	2.91	294	68						
+													
+MUNICIPIS	Cens	Votants	Vàlids	Nuls	Sí	No	Blanc						
+Aiguafreda	1.962	1.229	1.211	18	1.13	67	14						
+Bigues	i	Riells	6.734	3.942	3.902	40	3.514	321	67				
+Caldes	de	Montbui	12.813	7.474	7.432	42	6.821	485	126				
+Campins	362	443	439	4	411	17	11						
+Canovelles	10.343	2.654	2.621	33	2.289	295	37						
+Cànoves	i	Samalús	2.231	1.041	1.035	6	944	75	16				
+Cardedeu	13.29	7.414	7.349	65	6.818	380	151						
+Figaró-Montmany	810	476	475	1	444	26	5						
+Fogars	de	Montclús	339	301	297	4	283	10	4				
+Granollers	42.622	20.045	19.787	258	17.601	1.837	349						
+Gualba	1.021	758	752	6	710	33	9						
+La	Garriga	11.899	7.205	7.151	54	6.712	309	130					
+La	Llagosta	9.63	2.43	2.378	52	1.836	487	55					
+La	Roca	del	Vallès	7.887	3.995	3.923	72	3.595	276	52			
+L'Ametlla	del	Vallès	6.205	4.066	4.036	30	3.773	199	64				
+Les	Franqueses	del	Vallès	13.582	5.142	5.083	59	4.56	436	87			
+Lliçà	d'Amunt	11.502	4.254	4.188	66	3.717	390	81					
+Lliçà	de	Vall	5.016	2.304	2.265	39	1.966	254	45				
+Llinars	del	Vallès	7.279	4.247	4.181	66	3.76	311	110				
+Martorelles	3.799	1.848	1.822	26	1.605	197	20						
+Mollet	del	Vallès	36.804	12.011	11.888	123	9.82	1.75	318				
+Montmeló	6.677	2.522	2.433	89	2.03	330	73						
+Montornès	del	Vallès	11.45	3.077	3.008	69	2.477	462	69				
+Montseny	262	237	230	7	215	9	6						
+Parets	del	Vallès	14.096	5.613	5.576	37	4.906	565	105				
+Sant	Antoni	de	Vilamajor	4.411	2.444	2.418	26	2.3	104	14			
+Sant	Celoni	12.68	7.483	7.429	54	6.871	482	76					
+Sant	Esteve	de	Palautordera	1.865	1.592	1.586	6	1.525	46	15			
+Sant	Feliu	de	Codines	4.329	2.552	2.542	10	2.402	113	27			
+Sant	Fost	de	Campsentelles	6.773	2.448	2.43	18	2.214	176	40			
+Sant	Pere	de	Vilamajor	3.2	1.72	1.697	23	1.599	84	14			
+Santa	Eulàlia	de	Ronçana	5.419	2.866	2.846	20	2.599	202	45			
+Santa	Maria	de	Martorelles	650	512	503	9	462	24	17			
+Santa	Maria	de	Palautordera	6.637	4.081	4.044	37	3.746	229	69			
+Tagamanent	237	341	341	0	325	13	3						
+Vallgorguina	1.966	1.304	1.299	5	1.209	57	33						
+Vallromanes	1.777	1.407	1.404	3	1.279	99	26						
+Vilalba	Sasserra	506	284	281	3	262	15	4					
+Vilanova	del	Vallès	3.761	2.113	2.104	9	1.937	136	31				
